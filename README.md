@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Saif ali 
 - 👀 I’m interested in ROS and Embeded system
 - 🌱 I’m currently learning ROS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me dotcom4604@gmail.com
+- 📫 How to reach me msaifalishaikh@gmail.com
 
 <!---
 Saifali4604/Saifali4604 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
