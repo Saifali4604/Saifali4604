@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saif ali 
 - 👀 I’m interested in ROS and Embeded system
-- 🌱 I’m currently learning ROS
+- 🌱 I’m currently learning ROS and doing research on various project
 - 📫 How to reach me msaifalishaikh@gmail.com
 
 <!---
