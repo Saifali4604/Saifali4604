@@ -18,18 +18,6 @@ Programming Languages: C, Verilog HDL, Assembly
 
 Expertise: Digital Logic Design, IoT, PCB Design, Communication Protocols
 
----
-
-📫 Connect with Me
-
-GitHub: github.com/Saifali4604
-
-LinkedIn: linkedin.com/in/mohammad-saifali-shaikh
-
-Email: msaifalishaikh@gmail.com
-
----
-
 <p align='center'>
     <img src="./demo.gif" alt="drawing" width="800"/>
 </p>
